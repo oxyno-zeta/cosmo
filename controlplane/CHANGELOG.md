@@ -4,6 +4,12 @@ Binaries are attached to the github release otherwise all images can be found [h
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.243.0](https://github.com/wundergraph/cosmo/compare/controlplane@0.242.4...controlplane@0.243.0) (2026-07-16)
+
+### Features
+
+* fallback to owned organizations when the user has not been assigned to any group in Keycloak ([#3088](https://github.com/wundergraph/cosmo/issues/3088)) ([711f396](https://github.com/wundergraph/cosmo/commit/711f3965261efd9c87ed00f84f30dcd2f6260e8b)) (@wilsonrivera)
+
 ## [0.242.4](https://github.com/wundergraph/cosmo/compare/controlplane@0.242.3...controlplane@0.242.4) (2026-07-15)
 
 ### Bug Fixes
